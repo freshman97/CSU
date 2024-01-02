@@ -1,0 +1,11 @@
+'resnet50_fc512_csu1_a0d1': resnet50_fc512_csu1_a0d1,
+        'resnet50_fc512_csu123_a0d1': resnet50_fc512_csu123_a0d1,
+        'resnet50_fc512_csu1234_a0d1': resnet50_fc512_csu1234_a0d1,
+        'resnet50_fc512_csu23_a0d1': resnet50_fc512_csu23_a0d1,
+        'resnet50_fc512_csu14_a0d1': resnet50_fc512_csu14_a0d1,
+        'resnet50_fc512_csu12_a0d2': resnet50_fc512_csu12_a0d2,
+        'resnet50_fc512_csu12_a0d1': resnet50_fc512_csu12_a0d1,
+        'resnet50_fc512_csu12_a0d3': resnet50_fc512_csu12_a0d3,
+        'osnet_x1_0_csu23_a0d1': osnet_x1_0_csu23_a0d1,
+        'osnet_x1_0_csu23_a0d2': osnet_x1_0_csu23_a0d2,
+        'osnet_x1_0_csu23_a0d3': osnet_x1_0_csu23_a0d3
